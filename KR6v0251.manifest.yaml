@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0251/v1
 canonical_location: https://kanripo.org/bkk/KR6v0251/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 陳神姜等造像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0251_000.yaml, hash: 'sha256:619a4b8e37a7711f58043619e44edde8fde4b923f88abd97495564831aec1541'}
-  - {seq: 1, filename: KR6v0251_001.yaml, hash: 'sha256:c571d0aef80c9d6283981f7dfb18ff8b28c41937b8e92d8788fc6c3fce9a700c'}
+  - {seq: 1, filename: KR6v0251_001.yaml, hash: 'sha256:2139480f19636807564ddcf5fd9bc6959fbdcc47f0ae8281b39c0de15f3f5861'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0251_000.markers.yaml, hash: 'sha256:b7680ae11eebc8327d30f611ad47c4ee68a08afe800a4e3e96be2f3089d08f80'}
-  - {seq: 1, role: markers, filename: assets/KR6v0251_001.markers.yaml, hash: 'sha256:09021265f47c4f8b05753b220e9ca463d7c030b6de75d7e0ce5b7881a43b7eca'}
+  - {seq: 1, role: markers, filename: assets/KR6v0251_001.markers.yaml, hash: 'sha256:0605e904091a288d2330dd05fc2f75d5671b6a0d8ae3596581da4a8578e830f0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: 之四　碑側
   type: mulu
   level: 1
-hash: sha256:b0cfd2a1a0979bb2e5fb6508ca5eba0793512e52666f34ff9ee37dcaf95ecbff
+hash: sha256:d75d3620774dac9c074b1e87f2145e3ec70c3e9a048b4228b2130d619558735d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
